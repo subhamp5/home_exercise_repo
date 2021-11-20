@@ -1,1 +1,2 @@
-So, now we are good with git, we can proceed to learn about using github
+So, now we are good with git, we can proceed to learn about using github.
+Till now good going
